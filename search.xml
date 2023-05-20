@@ -4,12 +4,75 @@
   
     
     <entry>
+      <title>Ae-小技巧(1)待更新</title>
+      <link href="/2023/05/20/AE-%E5%B0%8F%E6%8A%80%E5%B7%A7%EF%BC%881%EF%BC%89%E5%BE%85%E6%9B%B4%E6%96%B0/"/>
+      <url>/2023/05/20/AE-%E5%B0%8F%E6%8A%80%E5%B7%A7%EF%BC%881%EF%BC%89%E5%BE%85%E6%9B%B4%E6%96%B0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> Ae-小技巧 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>日常-牢骚（1）待更新</title>
+      <link href="/2023/05/20/%E6%97%A5%E5%B8%B8-%E7%89%A2%E9%AA%9A%EF%BC%881%EF%BC%89%E5%BE%85%E6%9B%B4%E6%96%B0/"/>
+      <url>/2023/05/20/%E6%97%A5%E5%B8%B8-%E7%89%A2%E9%AA%9A%EF%BC%881%EF%BC%89%E5%BE%85%E6%9B%B4%E6%96%B0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 日常-牢骚 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/05/19/hello-world/"/>
       <url>/2023/05/19/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h1 id="插入B站视频"><a href="#插入B站视频" class="headerlink" title="插入B站视频"></a>插入B站视频</h1><h2 id="直接复制插入你的-md-文章就行，修改里面的-aid-为你视频的-AV号："><a href="#直接复制插入你的-md-文章就行，修改里面的-aid-为你视频的-AV号：" class="headerlink" title="直接复制插入你的 md 文章就行，修改里面的 aid 为你视频的 AV号："></a>直接复制插入你的 md 文章就行，修改里面的 aid 为你视频的 AV号：</h2><div align=center class="aspect-ratio">    <iframe src="https://player.bilibili.com/player.html?aid=474023258&&page=1&as_wide=1&high_quality=1&danmaku=0"     scrolling="no"     border="0"     frameborder="no"     framespacing="0"     high_quality=1    danmaku=1     allowfullscreen="true">     </iframe></div>]]></content>
       
+      
+      <categories>
+          
+          <category> 编程-语法 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>周易-八字-（1基础知识）</title>
+      <link href="/2023/05/18/%E5%85%AB%E5%AD%97/"/>
+      <url>/2023/05/18/%E5%85%AB%E5%AD%97/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 周易-术数 </category>
+          
+      </categories>
       
       
     </entry>
@@ -21,8 +84,14 @@
       <link href="/2023/05/18/%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/"/>
       <url>/2023/05/18/%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</url>
       
-        <content type="html"><![CDATA[<p align="center">这是我搭建blog的第一天，美化工作还没做好，不过我已经迫不及待的上手写一下博客了。</p><p align="center">这篇是测试、熟练语法。</p><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><p>md语言使用#、+、*等符号来标记，符号后面要跟至少一个空格才生效</p><h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><h2 id="1、-标题"><a href="#1、-标题" class="headerlink" title="1、# 标题"></a>1、# 标题</h2><p>在标题开头加上1~6个#，依次代表一级标题、二级标题…六级标题</p><h2 id="2、-x3D-标题"><a href="#2、-x3D-标题" class="headerlink" title="2、&#x3D;-标题"></a>2、&#x3D;-标题</h2><p>在标题底部添加任意个&#x3D;或-，&#x3D;代表一级标题，-代表二级标题</p><h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><p>md支持有序列表和无序列表</p><h2 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h2><p>使用-、+、*作为列表标记：</p><ul><li>Red</li><li>Green</li><li>Blue</li></ul><h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2><p>使用数字加英文句号来表示</p><ol><li>Red</li><li>Green</li><li>Blue</li></ol><h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><p>引用以&gt;来表示，引用中支持多级引用、标题、列表、代码块、分割线等常规语法</p><blockquote><p>一级引用</p><blockquote><p>二级引用</p><blockquote><p>三级引用<br>和标题同理，一个&gt;号是一级引用，共三级引用。</p></blockquote></blockquote><h4 id="这是一个四级标题"><a href="#这是一个四级标题" class="headerlink" title="这是一个四级标题"></a>这是一个四级标题</h4><ol><li>这是第一行有序列表</li><li>这是第二行有序列表</li></ol></blockquote><h1 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h1><p>两个<em>或-代表加粗，一个</em>或-代表斜体，两个波浪号代表删除<br><strong>星号加粗文本</strong> <em>星号斜体文本</em> <del>删除文本</del></p><h1 id="图片与链接"><a href="#图片与链接" class="headerlink" title="图片与链接"></a>图片与链接</h1><pre><code>图片与链接的语法很像，区别在于一个感叹号。图片：![]()    ![图片文本(可忽略)](图片地址）链接：[]()     [链接文本](链接地址)</code></pre><p>链接又分为行内式、参考式、和自动链接：</p><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>这是行内式链接：<a href="http://connorlin.github.io/">ConnorLin’s Blog</a>。<br>这是行内链接：<a href="https://www.vip.com/?wq=1">我的b站账号</a></p><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p>这是图片：<img src="https://connorlin.github.io/images/avatar.jpg" alt="练习"><br>图片1:<img src="https://img0.baidu.com/it/u=3425868493,3104015061&fm=253&fmt=auto&app=120&f=JPEG?w=1199&h=800" alt="1"></p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><table><thead><tr><th align="left">标题</th><th align="center">标题</th><th align="right">标题</th></tr></thead><tbody><tr><td align="left">居左测试文本</td><td align="center">居中测试文本</td><td align="right">居右测试文本</td></tr><tr><td align="left">居左测试文本1</td><td align="center">居中测试文本2</td><td align="right">居右测试文本3</td></tr><tr><td align="left">居左测试文本11</td><td align="center">居中测试文本22</td><td align="right">居右测试文本33</td></tr><tr><td align="left">居左测试文本111</td><td align="center">居中测试文本222</td><td align="right">居右测试文本333</td></tr></tbody></table><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><p>一行中用三个以上的星号、减号、下划线来组成一个分割线，行内不能有其他东西。</p><hr><hr><hr><hr><h1 id="换行"><a href="#换行" class="headerlink" title="换行"></a>换行</h1><pre><code>在一行后面加两个空格加回车表示换行111111111111111</code></pre><h1 id="文本对齐方式"><a href="#文本对齐方式" class="headerlink" title="文本对齐方式"></a>文本对齐方式</h1><p> &lt; p align&#x3D;”left”&gt;居左文本&lt; &#x2F;p&gt;<br> &lt; p align&#x3D;”center”&gt;居中文本&lt; &#x2F;p&gt;<br> &lt; p align&#x3D;”right”&gt;居右文本&lt; &#x2F;p&gt;</p>]]></content>
+        <content type="html"><![CDATA[<p align="center">这是我搭建blog的第一天，美化工作还没做好，不过我已经迫不及待的上手写一下博客了。</p><p align="center">这篇是测试、熟练语法。</p><h1 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h1><p>md语言使用#、+、*等符号来标记，符号后面要跟至少一个空格才生效</p><h1 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h1><h2 id="1、-标题"><a href="#1、-标题" class="headerlink" title="1、# 标题"></a>1、# 标题</h2><p>在标题开头加上1~6个#，依次代表一级标题、二级标题…六级标题</p><h2 id="2、-标题"><a href="#2、-标题" class="headerlink" title="2、=-标题"></a>2、=-标题</h2><p>在标题底部添加任意个=或-，=代表一级标题，-代表二级标题</p><h1 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h1><p>md支持有序列表和无序列表</p><h2 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h2><p>使用-、+、*作为列表标记：</p><ul><li>Red</li><li>Green</li><li>Blue</li></ul><h2 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h2><p>使用数字加英文句号来表示</p><ol><li>Red</li><li>Green</li><li>Blue</li></ol><h1 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h1><p>引用以&gt;来表示，引用中支持多级引用、标题、列表、代码块、分割线等常规语法</p><blockquote><p>一级引用</p><blockquote><p>二级引用</p><blockquote><p>三级引用<br>和标题同理，一个&gt;号是一级引用，共三级引用。</p><h4 id="这是一个四级标题"><a href="#这是一个四级标题" class="headerlink" title="这是一个四级标题"></a>这是一个四级标题</h4></blockquote></blockquote><ol><li>这是第一行有序列表</li><li>这是第二行有序列表</li></ol></blockquote><h1 id="强调"><a href="#强调" class="headerlink" title="强调"></a>强调</h1><p>两个<em>或-代表加粗，一个</em>或-代表斜体，两个波浪号代表删除<br><strong>星号加粗文本</strong> <em>星号斜体文本</em> <del>删除文本</del></p><h1 id="图片与链接"><a href="#图片与链接" class="headerlink" title="图片与链接"></a>图片与链接</h1><pre><code>图片与链接的语法很像，区别在于一个感叹号。图片：![]()    ![图片文本(可忽略)](图片地址）链接：[]()     [链接文本](链接地址)</code></pre><p>链接又分为行内式、参考式、和自动链接：</p><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>这是行内式链接：<a href="http://connorlin.github.io">ConnorLin’s Blog</a>。<br>这是行内链接：<a href="https://www.vip.com/?wq=1">我的b站账号</a></p><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p>这是图片：<img src="https://connorlin.github.io/images/avatar.jpg" alt="练习"><br>图片1:<img src="https://img0.baidu.com/it/u=3425868493,3104015061&amp;fm=253&amp;fmt=auto&amp;app=120&amp;f=JPEG?w=1199&amp;h=800" alt="1"></p><h1 id="表格"><a href="#表格" class="headerlink" title="表格"></a>表格</h1><div class="table-container"><table><thead><tr><th style="text-align:left">标题</th><th style="text-align:center">标题</th><th style="text-align:right">标题</th></tr></thead><tbody><tr><td style="text-align:left">居左测试文本</td><td style="text-align:center">居中测试文本</td><td style="text-align:right">居右测试文本</td></tr><tr><td style="text-align:left">居左测试文本1</td><td style="text-align:center">居中测试文本2</td><td style="text-align:right">居右测试文本3</td></tr><tr><td style="text-align:left">居左测试文本11</td><td style="text-align:center">居中测试文本22</td><td style="text-align:right">居右测试文本33</td></tr><tr><td style="text-align:left">居左测试文本111</td><td style="text-align:center">居中测试文本222</td><td style="text-align:right">居右测试文本333</td></tr></tbody></table></div><h1 id="分割线"><a href="#分割线" class="headerlink" title="分割线"></a>分割线</h1><p>一行中用三个以上的星号、减号、下划线来组成一个分割线，行内不能有其他东西。</p><h2 id=""><a href="#" class="headerlink" title="*"></a><em>*</em></h2><hr><hr><h1 id="换行"><a href="#换行" class="headerlink" title="换行"></a>换行</h1><pre><code>在一行后面加两个空格加回车表示换行111111111111111</code></pre><h1 id="文本对齐方式"><a href="#文本对齐方式" class="headerlink" title="文本对齐方式"></a>文本对齐方式</h1><p> &lt; p align=”left”&gt;居左文本&lt; /p&gt;<br> &lt; p align=”center”&gt;居中文本&lt; /p&gt;<br> &lt; p align=”right”&gt;居右文本&lt; /p&gt;</p>]]></content>
       
+      
+      <categories>
+          
+          <category> 编程-语法 </category>
+          
+      </categories>
       
       
     </entry>
@@ -33,11 +102,44 @@
     
     
     <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
       
-        <content type="html"><![CDATA[/*哔哩哔哩视频适配*/.aspect-ratio {    position: relative;    width: 90%;    height: auto;    padding-bottom: 75%;    margin: 3% auto;    text-align: center;  }  .aspect-ratio iframe {    position: absolute;    width: 100%;    height: 86%;    left: 0;    top: 0;  }/* 文章页H1-H6图标样式效果 *//* 控制风车转动速度 4s那里可以自己调节快慢 */h1::before,h2::before,h3::before,h4::before,h5::before,h6::before {  -webkit-animation: ccc 4s linear infinite;  animation: ccc 4s linear infinite;}/* 控制风车转动方向 -1turn 为逆时针转动，1turn 为顺时针转动，相同数字部分记得统一修改 */@-webkit-keyframes ccc {  0% {    -webkit-transform: rotate(0deg);    transform: rotate(0deg);  }  to {    -webkit-transform: rotate(-1turn);    transform: rotate(-1turn);  }}@keyframes ccc {  0% {    -webkit-transform: rotate(0deg);    transform: rotate(0deg);  }  to {    -webkit-transform: rotate(-1turn);    transform: rotate(-1turn);  }}/* 设置风车颜色 */#content-inner.layout h1::before {  color: #ef50a8;  margin-left: -1.55rem;  font-size: 1.3rem;  margin-top: -0.23rem;}#content-inner.layout h2::before {  color: #fb7061;  margin-left: -1.35rem;  font-size: 1.1rem;  margin-top: -0.12rem;}#content-inner.layout h3::before {  color: #ffbf00;  margin-left: -1.22rem;  font-size: 0.95rem;  margin-top: -0.09rem;}#content-inner.layout h4::before {  color: #a9e000;  margin-left: -1.05rem;  font-size: 0.8rem;  margin-top: -0.09rem;}#content-inner.layout h5::before {  color: #57c850;  margin-left: -0.9rem;  font-size: 0.7rem;  margin-top: 0rem;}#content-inner.layout h6::before {  color: #5ec1e0;  margin-left: -0.9rem;  font-size: 0.66rem;  margin-top: 0rem;}/* s设置风车hover动效 6s那里可以自己调节快慢*/#content-inner.layout h1:hover,#content-inner.layout h2:hover,#content-inner.layout h3:hover,#content-inner.layout h4:hover,#content-inner.layout h5:hover,#content-inner.layout h6:hover {  color: var(--theme-color);}#content-inner.layout h1:hover::before,#content-inner.layout h2:hover::before,#content-inner.layout h3:hover::before,#content-inner.layout h4:hover::before,#content-inner.layout h5:hover::before,#content-inner.layout h6:hover::before {  color: var(--theme-color);  -webkit-animation: ccc 6s linear infinite;  animation: ccc 6s linear infinite;}]]></content>
+        <content type="html"><![CDATA[:root {  --trans-light: rgba(255, 255, 255, 0.88);  --trans-dark: rgba(25, 25, 25, 0.88);  --border-style: 1px solid rgb(169, 169, 169);  --backdrop-filter: blur(5px) saturate(150%);}/*哔哩哔哩视频适配*/.aspect-ratio {    position: relative;    width: 90%;    height: auto;    padding-bottom: 75%;    margin: 3% auto;    text-align: center;  }  .aspect-ratio iframe {    position: absolute;    width: 100%;    height: 86%;    left: 0;    top: 0;  }/* 文章页H1-H6图标样式效果 *//* 控制风车转动速度 4s那里可以自己调节快慢 */h1::before,h2::before,h3::before,h4::before,h5::before,h6::before {  -webkit-animation: ccc 4s linear infinite;  animation: ccc 4s linear infinite;}/* 控制风车转动方向 -1turn 为逆时针转动，1turn 为顺时针转动，相同数字部分记得统一修改 */@-webkit-keyframes ccc {  0% {    -webkit-transform: rotate(0deg);    transform: rotate(0deg);  }  to {    -webkit-transform: rotate(-1turn);    transform: rotate(-1turn);  }}@keyframes ccc {  0% {    -webkit-transform: rotate(0deg);    transform: rotate(0deg);  }  to {    -webkit-transform: rotate(-1turn);    transform: rotate(-1turn);  }}/* 设置风车颜色 */#content-inner.layout h1::before {  color: #ef50a8;  margin-left: -1.55rem;  font-size: 1.3rem;  margin-top: -0.23rem;}#content-inner.layout h2::before {  color: #fb7061;  margin-left: -1.35rem;  font-size: 1.1rem;  margin-top: -0.12rem;}#content-inner.layout h3::before {  color: #ffbf00;  margin-left: -1.22rem;  font-size: 0.95rem;  margin-top: -0.09rem;}#content-inner.layout h4::before {  color: #a9e000;  margin-left: -1.05rem;  font-size: 0.8rem;  margin-top: -0.09rem;}#content-inner.layout h5::before {  color: #57c850;  margin-left: -0.9rem;  font-size: 0.7rem;  margin-top: 0rem;}#content-inner.layout h6::before {  color: #5ec1e0;  margin-left: -0.9rem;  font-size: 0.66rem;  margin-top: 0rem;}/* s设置风车hover动效 6s那里可以自己调节快慢*/#content-inner.layout h1:hover,#content-inner.layout h2:hover,#content-inner.layout h3:hover,#content-inner.layout h4:hover,#content-inner.layout h5:hover,#content-inner.layout h6:hover {  color: var(--theme-color);}#content-inner.layout h1:hover::before,#content-inner.layout h2:hover::before,#content-inner.layout h3:hover::before,#content-inner.layout h4:hover::before,#content-inner.layout h5:hover::before,#content-inner.layout h6:hover::before {  color: var(--theme-color);  -webkit-animation: ccc 6s linear infinite;  animation: ccc 6s linear infinite;}/* 页脚与头图透明 */#footer {  background: transparent !important;}#page-header {  background: transparent !important;}/* 白天模式遮罩透明 */#footer::before {  background: transparent !important;}#page-header::before {  background: transparent !important;}/* 夜间模式遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 小冰分类分类磁铁黑夜模式适配 *//* 一般状态 */[data-theme="dark"] .magnet_link_context {  background: #1e1e1e;  color: antiquewhite;}/* 鼠标悬浮状态 */[data-theme="dark"] .magnet_link_context:hover {  background: #3ecdf1;  color: #f2f2f2;}/* 翻页按钮居中 */#pagination {  width: 100%;  margin: auto;}/* 夜间模式菜单栏发光字 */[data-theme="dark"] #nav .site-page,[data-theme="dark"] #nav .menus_items .menus_item .menus_item_child li a {  text-shadow: 0 0 2px var(--theme-color) !important;}/* 手机端适配 */[data-theme="dark"] #sidebar #sidebar-menus .menus_items .site-page {  text-shadow: 0 0 2px var(--theme-color) !important;}/* 闪烁变动颜色连续渐变 */#site-name,#site-title,#site-subtitle,#post-info,.author-info__name,.author-info__description {  transition: text-shadow 1s linear !important;}/* 首页文章卡片 */#recent-posts > .recent-post-item {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 25px;  border: var(--border-style);}/* 首页侧栏卡片 */#aside-content .card-widget {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border-radius: 18px;  border: var(--border-style);}/* 文章页、归档页、普通页面 */div#post,div#page,div#archive {  background: var(--trans-light);  backdrop-filter: var(--backdrop-filter);  border: var(--border-style);  border-radius: 20px;}/* 导航栏 */#page-header.nav-fixed #nav {  background: rgba(255, 255, 255, 0.75);  backdrop-filter: var(--backdrop-filter);}[data-theme="dark"] #page-header.nav-fixed #nav {  background: rgba(0, 0, 0, 0.7) !important;}/* 夜间模式遮罩 */[data-theme="dark"] #recent-posts > .recent-post-item,[data-theme="dark"] #aside-content .card-widget,[data-theme="dark"] div#post,[data-theme="dark"] div#archive,[data-theme="dark"] div#page {  background: var(--trans-dark);}/* 夜间模式页脚页头遮罩透明 */[data-theme="dark"] #footer::before {  background: transparent !important;}[data-theme="dark"] #page-header::before {  background: transparent !important;}/* 阅读模式 */.read-mode #aside-content .card-widget {  background: rgba(158, 204, 171, 0.5) !important;}.read-mode div#post {  background: rgba(158, 204, 171, 0.5) !important;}/* 夜间模式下的阅读模式 */[data-theme="dark"] .read-mode #aside-content .card-widget {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}[data-theme="dark"] .read-mode div#post {  background: rgba(25, 25, 25, 0.9) !important;  color: #ffffff;}]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/light.js"/>
+      <url>/js/light.js</url>
+      
+        <content type="html"><![CDATA[// 霓虹灯效果// 颜色数组var arr = ["#39c5bb", "#f14747", "#f1a247", "#f1ee47", "#b347f1", "#1edbff", "#ed709b", "#5636ed"];// 颜色索引var idx = 0;// 切换颜色function changeColor() {    // 仅夜间模式才启用    if (document.getElementsByTagName('html')[0].getAttribute('data-theme') == 'dark') {        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = arr[idx] + " 0 0 15px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = arr[idx] + " 0 0 10px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = arr[idx] + " 0 0 5px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = arr[idx] + " 0 0 12px";            document.getElementsByClassName("author-info__description")[0].style.textShadow = arr[idx] + " 0 0 12px";        } catch {                    }        idx++;        if (idx == 8) {            idx = 0;        }    } else {        // 白天模式恢复默认        if (document.getElementById("site-name"))            document.getElementById("site-name").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-title"))            document.getElementById("site-title").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("site-subtitle"))            document.getElementById("site-subtitle").style.textShadow = "#1e1e1ee0 1px 1px 1px";        if (document.getElementById("post-info"))            document.getElementById("post-info").style.textShadow = "#1e1e1ee0 1px 1px 1px";        try {            document.getElementsByClassName("author-info__name")[0].style.textShadow = "";            document.getElementsByClassName("author-info__description")[0].style.textShadow = "";        } catch {                    }    }}// 开启计时器window.onload = setInterval(changeColor, 1200);]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title></title>
+      <link href="/js/runtime.js"/>
+      <url>/js/runtime.js</url>
+      
+        <content type="html"><![CDATA[setInterval(() => {  let create_time = Math.round(new Date('2023-05-20 00:00:00').getTime() / 1000); //在此行修改建站时间  let timestamp = Math.round((new Date().getTime()) / 1000);  let second = timestamp - create_time;  let time = new Array(0, 0, 0, 0, 0);  var nol = function(h){    return h>9?h:'0'+h;  }  if (second >= 365 * 24 * 3600) {    time[0] = parseInt(second / (365 * 24 * 3600));    second %= 365 * 24 * 3600;  }  if (second >= 24 * 3600) {    time[1] = parseInt(second / (24 * 3600));    second %= 24 * 3600;  }  if (second >= 3600) {    time[2] = nol(parseInt(second / 3600));    second %= 3600;  }  if (second >= 60) {    time[3] = nol(parseInt(second / 60));    second %= 60;  }  if (second > 0) {    time[4] = nol(second);  }  if ((Number(time[2])<22) && (Number(time[2])>7)){    currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/糖果屋-营业中-6adea8?style=social&logo=cakephp' title='距离百年老店也就差不到一百年~'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  else{    currentTimeHtml ="<img class='boardsign' src='https://img.shields.io/badge/糖果屋-打烊了-6adea8?style=social&logo=coffeescript' title='这个点了应该去睡觉啦，熬夜对身体不好哦'><div id='runtime'>" + time[0] + ' YEAR ' + time[1] + ' DAYS ' + time[2] + ' : ' + time[3] + ' : ' + time[4] + '</div>';  }  document.getElementById("workboard").innerHTML = currentTimeHtml;}, 1000);]]></content>
       
     </entry>
     
@@ -55,22 +157,22 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="4895239160" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div id="aplayer-oSEOhviA" class="aplayer aplayer-tag-marker meting-tag-marker" data-id="4895239160" data-server="netease" data-type="playlist" data-mode="random" data-autoplay="false" data-listmaxheight="340px" data-preload="auto" data-theme="#e3f2f5" data-volume="0.4" mutex="true"></div>]]></content>
       
     </entry>
     
